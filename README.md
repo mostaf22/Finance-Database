@@ -1,0 +1,25 @@
+##Project Description
+
+In this project, we will analyze a financial dataset using Power BI. The goal of this analysis is to extract valuable insights that aid in making informed financial decisions. We will follow these steps to achieve this goal:
+
+1. **Data Import**:
+   - We will import financial data from multiple sources such as Excel files, SQL databases, and CSV files.
+
+2. **Data Cleaning**:
+   - We will use Power Query Editor to clean the data, including removing missing values, converting data types, and merging different tables.
+
+3. **Data Modeling**:
+   - We will create relationships between different tables in the data model.
+   - We will use DAX (Data Analysis Expressions) to create custom measures and calculations for deeper data analysis.
+
+4. **Creating Visualizations**:
+   - We will create various visualizations such as tables, charts, and maps to display the data visually.
+   - We will use different tools in Power BI to customize the visualizations and add interactions.
+
+5. **Data Analysis**:
+   - We will use the visualizations to answer business questions and analyze financial trends.
+   - We will leverage features like Q&A to gain additional insights from the data.
+
+6. **Report Publishing**:
+   - After completing the report, we will publish it on Power BI Service to share it with the team.
+   - We will set up automatic data refreshes to ensure the data is always up-to-date.
